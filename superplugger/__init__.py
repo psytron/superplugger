@@ -1,5 +1,5 @@
-import app
+from .app import default
 
 
 def run():
-    app.default()
+    default()
